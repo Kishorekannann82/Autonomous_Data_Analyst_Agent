@@ -1,0 +1,24 @@
+# Data Processing
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Machine Learning
+scikit-learn
+
+# Notebook
+jupyter
+ipykernel
+
+# Utilities
+openpyxl
+python-dotenv
+tqdm
+
+# Code Quality
+black
+pytest
